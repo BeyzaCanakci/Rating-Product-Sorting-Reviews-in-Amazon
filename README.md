@@ -1,4 +1,4 @@
-# Rating Product & Sorting Reviews in Amazon
+# MEASUREMENT PROBLEM- Rating Product & Sorting Reviews in Amazon
 
 This project provides an analytical approach to evaluating product ratings and sorting customer reviews for Amazon products. The main script, `Rating_Product_&_Sorting_Reviews_in_Amazon.py`, demonstrates how to analyze product reviews, calculate meaningful product ratings, and sort reviews based on their helpfulness.
 
